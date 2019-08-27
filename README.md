@@ -1,2 +1,3 @@
 # mvn-example1
-Simple maven build for Jenkins example
+
+This is a Simple maven build that we will use in learning how to use the Jenkins CI server
